@@ -28,3 +28,11 @@ nav a:hover{
 	background-color: #FFCE33;
 	color: black;
 }
+
+body{
+	background-color: #FFD6A5;
+}
+
+h1{
+	text-align: center;
+	font:"Comic Sans MS", cursive, sans-serif
