@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+/*navigationb styles*/
+
+nav{
+	background-color: #FF6833;
+	text-align: center;
+}
+
+nav ul{
+	list-style: none;
+}
+nav li{
+	display: inline;
+}
+nav a{
+	display: inline-block;
+	padding: 20px;
+	text-decoration: none;
+	color: black;
+}
+nav a:hover{
+	background-color: #FFCE33;
+	color: black;
+}
