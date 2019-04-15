@@ -5,6 +5,8 @@ box-sizing: border-box;
 
 }
 
+
+
 /*navigationb styles*/
 
 nav{
@@ -36,4 +38,29 @@ body{
 h1{
 	text-align: center;
 	font:"Comic Sans MS", cursive, sans-serif
+}
 
+
+.right-responsive{ 
+	max-width:80%
+	height: 150px;
+	float: right;
+	margin: 15px 50px 15px 50px;
+	border: solid 3px #000000
+}
+
+h2{
+	text-align: justify;
+	line-height: 20px;
+	}
+
+<<<<<<< HEAD:nav_exercise/style.css
+=======
+	.mydiv{
+	box-sizing:border-box;
+	border: solid 15px #e51b1b;
+	padding: 0;
+	float:left;
+	margin: 25px 25px 25px 0;
+	}
+>>>>>>> dd1e0a3ce91e0a45b8abde22b6332a023d3fca61:step_by_step/style.css
